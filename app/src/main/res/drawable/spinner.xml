@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<shape xmlns:andriod="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/aapt"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">>
+        <stroke
+            andriod:color="#be1313"
+            />
+        <corners andriod:topLeftRadius="30dp"
+            andriod:bottomLeftRadius="30dp"
+            andriod:bottomRightRadius="30dp"
+            andriod:topRightRadius="30dp"
+            />
+        <size
+            andriod:width="25dp"
+            andriod:height="25dp"
+            ></size>
+        <solid andriod:color="#ffffff"/>
+    </shape>
+
+
